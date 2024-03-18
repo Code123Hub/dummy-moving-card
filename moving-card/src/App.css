@@ -1,0 +1,7 @@
+
+
+.div-app {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed (space-between, center, etc.) */
+  align-items: center; /* Adjust as needed (flex-start, flex-end, stretch, etc.) */
+}
